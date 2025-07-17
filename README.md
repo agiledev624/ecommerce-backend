@@ -1,4 +1,4 @@
-# E-commerce Backend Platform
+# E-commerce Backend Built in Rust
 ## Overview
 This project comprises several independent backend applications, each responsible for a specific business domain in B2C or B2B scenarios, from user management to payment processing.
 
@@ -26,7 +26,4 @@ This project is currently for learning purpose and not production-ready system.
 ## Build, Test, and Development
 - setup for [inter-service communication](./INTER_SERVICE.md)
 - each application comes with its own build, test processes, and technology stack details, please refer to `README` of these application
-
-## License
-This project is licensed under [Your License Here]. See the [LICENSE](./LICENSE) file for details.
 
